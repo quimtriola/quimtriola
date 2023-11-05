@@ -11,4 +11,5 @@ I used Roboto for the body and Courier New for strong elements to provide a clea
 Finally I centered the website content layout to the left for better readability.
 
 https://quimtriola.github.io/quimtriola/
+
 https://www.figma.com/file/NdFLvcYO21wohXq3OmBU9O/Untitled?type=design&node-id=1%3A2&mode=design&t=wmrFT01jAsxLtctT-1
